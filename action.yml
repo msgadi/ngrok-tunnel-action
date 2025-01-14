@@ -1,4 +1,4 @@
-name: 'Ngrok Tunnel Action'
+name: 'Ngrok Github Action'
 description: 'Tunnel traffic from within a Github Action runner'
 
 branding:
